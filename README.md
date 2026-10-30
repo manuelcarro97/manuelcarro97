@@ -11,7 +11,9 @@ He trabajado en aplicaciones de gestión empresarial: APIs REST, bases de datos 
 - **DevOps:** Docker, GitHub Actions, Azure DevOps, Linux
 - **Web:** JavaScript, Node.js, Cloudflare Workers, Firebase
 
-## Proyecto destacado
+## Proyectos destacados
+
+**[arquitect-app](https://github.com/manuelcarro97/arquitect-app)** ([demo](https://reformas-app-5f07c.web.app)): editor de planos de viviendas en 2D y 3D con React, TypeScript y Three.js. Dominio separado de la interfaz, 109 tests y CI con GitHub Actions.
 
 **[Kafé](https://github.com/manuelcarro97/kafe-bar-web)** ([demo](https://kafe-143b5.web.app)): web bilingüe en producción para un bar-restaurante real. Incluye panel de administración, API en Cloudflare Workers con verificación manual de JWT y despliegue continuo con GitHub Actions.
 
