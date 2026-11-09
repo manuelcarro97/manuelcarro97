@@ -13,7 +13,7 @@ He trabajado en aplicaciones de gestión empresarial: APIs REST, bases de datos 
 
 ## Proyectos destacados
 
-**[reservas-api](https://github.com/manuelcarro97/reservas-api)**: API REST de reservas de mesa con Java 21, Spring Boot y PostgreSQL. Arquitectura hexagonal, control de overbooking concurrente, 103 tests con Testcontainers, Docker Compose y CI con GitHub Actions.
+**reservas**: app de reservas de mesa para restaurantes, con demo en línea. Backend Java 21 + Spring Boot 4 con arquitectura hexagonal, PostgreSQL y control de overbooking concurrente. Frontend Angular 22 con editor de plano interactivo, panel del dueño y página de reserva incrustable en cualquier web. ~1.400 tests (Testcontainers y Vitest), CI con GitHub Actions, desplegada en Render y Firebase Hosting. [Demo](https://reservas-6d51b.web.app/r/demo) · [Código](https://github.com/manuelcarro97/reservas)
 
 **[arquitect-app](https://github.com/manuelcarro97/arquitect-app)** ([demo](https://reformas-app-5f07c.web.app)): editor de planos de viviendas en 2D y 3D con React, TypeScript y Three.js. Dominio separado de la interfaz, 109 tests y CI con GitHub Actions.
 
